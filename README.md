@@ -1,37 +1,27 @@
 # 💫 About Me:
 
 🚀 Passionate Full Stack Developer and problem solver from India, focused on building scalable web applications and continuously improving my DSA and development skills.
+- 🏗️  working on Full Stack MERN projects and AI-based web applications
+- ⚡I love turning ideas into real-world projects and learning new technologies every day
 
-- 🏗️ Working on Full Stack MERN projects and AI-powered web applications  
-- 💡 Love turning ideas into real-world projects  
-- 📚 Continuously learning new technologies and improving problem-solving skills  
-- ⚡ Enthusiastic about clean code, scalable systems, and modern web development  
+### 🌐 Socials:
 
----
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>](https://facebook.com/Minendra)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/Minendra)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/Minendra)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>](https://x.com/Minendra)
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/Minendra)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Minendra)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Minendra)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Minendra)
-
----
-
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman)
 
----
-
-## 🏆 GitHub Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true)
-
----
-
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
 
----
+### 🏆 GitHub Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true)
+###
 
 > “Stay hungry, stay foolish.” — Steve Jobs
+
+add with this
+fix it
