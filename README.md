@@ -1,8 +1,10 @@
 # 💫 About Me:
 
 🚀 Passionate Full Stack Developer and problem solver from India, focused on building scalable web applications and continuously improving my DSA and development skills.
-- 🏗️  working on Full Stack MERN projects and AI-based web applications
-- ⚡I love turning ideas into real-world projects and learning new technologies every day
+
+- 🏗️ Working on Full Stack MERN projects and AI-based web applications
+- ⚡ I love turning ideas into real-world projects and learning new technologies every day
+- “Stay hungry, stay foolish.” 
 
 ### 🌐 Socials:
 
@@ -15,8 +17,10 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman)
 
-### 🔥 GitHub Streak & Activity:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true" width="600" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=minendra1&theme=react-dark&hide_border=true" width="800" height="400" alt="Activity Graph" />
-###
-> “Stay hungry, stay foolish.” — Steve Jobs
+### 📊 GitHub Insights 
+<p align="left">
+  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://ghchart.rshah.org/fe428e/minendra1" alt="Yearly Heatmap" />
+</p>
