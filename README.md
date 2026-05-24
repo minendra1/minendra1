@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🚀 Passionate Full Stack Developer and problem solver from India, focused on building scalable web applications and continuously improving my DSA and development skills.
-- 🏗️  working on Full Stack MERN projects and AI-based web applications
+- 🏗️  working on Full Stack MERN projects and AI-based web applications
 - ⚡I love turning ideas into real-world projects and learning new technologies every day
 
 ### 🌐 Socials:
@@ -14,6 +14,17 @@
 ### 💻 Tech Stack:
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman)
+
+### 📊 GitHub Stats:
+
+![minendra1's GitHub stats](https://github-readme-stats.vercel.app/api?username=minendra1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minendra1&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak & Activity:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minendra1&theme=react-dark&hide_border=true)
 
 ###
 > “Stay hungry, stay foolish.” — Steve Jobs
