@@ -20,12 +20,5 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman)
 
-### 📊 GitHub Stats:
-
-![minendra1's GitHub stats](https://github-readme-stats.vercel.app/api?username=minendra1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minendra1&layout=compact&theme=radical)
-
-### 🎲 Random Dev Quote
-
 > "Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems."
 > - *Jamie Zawinski*
