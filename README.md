@@ -17,9 +17,9 @@
 
 ### 🔥 GitHub Streak & Activity:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true" width="400" alt="GitHub Streak" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minendra1&theme=react-dark&hide_border=false)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minendra1&theme=react-dark&hide_border=true" width="400" alt="Activity Graph" />
 
 ###
 > “Stay hungry, stay foolish.” — Steve Jobs
