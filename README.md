@@ -1,8 +1,8 @@
 # 💫 About Me:
 
 🚀 Passionate Full Stack Developer and problem solver from India, focused on building scalable web applications and continuously improving my DSA and development skills.
-🏗️  working on Full Stack MERN projects and AI-based web applications
-⚡I love turning ideas into real-world projects and learning new technologies every day
+-🏗️  working on Full Stack MERN projects and AI-based web applications
+-⚡I love turning ideas into real-world projects and learning new technologies every day
 
 ### 🌐 Socials:
 
