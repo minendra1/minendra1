@@ -15,16 +15,11 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman)
 
-### 📊 GitHub Stats:
-
-![minendra1's GitHub stats](https://github-readme-stats.vercel.app/api?username=minendra1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minendra1&layout=compact&theme=radical)
-
 ### 🔥 GitHub Streak & Activity:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=false)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minendra1&theme=react-dark&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=minendra1&theme=react-dark&hide_border=false)
 
 ###
 > “Stay hungry, stay foolish.” — Steve Jobs
