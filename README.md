@@ -16,8 +16,4 @@
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman)
 
 ###
-
 > “Stay hungry, stay foolish.” — Steve Jobs
-
-add with this
-fix it
