@@ -22,5 +22,5 @@
   <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 <p align="left">
-  <img src="https://ghchart.rshah.org/fe428e/minendra1" alt="Yearly Heatmap" />
+  <img src="https://ghchart.rshah.org/fe428e/minendra1" alt="Yearly Heatmap" width="100%" />
 </p>
