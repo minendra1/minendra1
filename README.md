@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Minendra%20Gangwar&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Enthusiast;LeetCoder+(1789);Computer+Science+Undergrad&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Enthusiast;LeetCoder+(1825);Computer+Science+Undergrad&center=true&width=500&height=50">
 
 </div>
 
@@ -22,16 +22,12 @@
   <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,windows,render,netlify,vercel,gcp,bootstrap,bun,express,fastapi,nextjs,nodejs,react,redux,vite,tailwind,mysql,mongodb,redis,adobe,photoshop,figma,numpy,pandas,matplotlib,github,git,postman" />
 </p>
 
----
-
-## 📊 GitHub Statistics
-
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minendra1&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MCP%20Servers-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
-
----
 
 ## 🤝 Connect with Me
 
